@@ -111,6 +111,7 @@
 		gtag(\'js\', new Date());
 		gtag(\'config\', \'UA-38777141-6\');
 	</script>';
+			echo "\n";
 		}
 	?>
 	<!-- JS -->
