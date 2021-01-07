@@ -95,14 +95,24 @@
 			}
 		}
 	</script>
-	<!-- Global site tag (gtag.js) - Google Analytics 
+	-->
+	<?php
+		//----------------------- Google Analytics
+		if (in_array($_SERVER['REMOTE_ADDR'], ['127.0.0.1', '::1'])) {
+			echo "<!-- Google Analytics disabled on Localhost -->\n";
+		}
+		else {
+			echo '
+	<!-- Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-38777141-6"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
 		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-		gtag('config', 'UA-38777141-6');
-	</script>
+		gtag(\'js\', new Date());
+		gtag(\'config\', \'UA-38777141-6\');
+	</script>';
+		}
+	?>
 	<!-- JS -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
