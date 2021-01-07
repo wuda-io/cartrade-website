@@ -1,12 +1,23 @@
+/******************************************************************** BASIC */
 h1 {font-size: 2.5em; margin-top: .5em; line-height: 1.25; margin-bottom: .25em;}
 h2 {font-size: 1.4em; font-weight: bold;}
 h3 {font-size: 1.3em; font-weight: bold;}
 h4 {font-size: 1.2em; font-weight: bold;}
 
-
+/******************************************************************** HEADER */
 .header-bar {background-color: #1e7da1;}
 
-/******************************************************************** TOP SECTION */
+/******************************************************************** FOOTER */
+.footer {background-color: #333;}
+.footer a {color: #eee;}
+.footer a:hover {color: #62d5ff;}
+.footer-title {font-weight: 600; font-size: 1.15em;}
+.footer-text-1 {font-size: 14px;}
+.footer-link-list {font-size: 14px; list-style-image: none;}
+.footer-subfooter {color: #ddd; font-size: 13px;}
+
+
+/******************************************************************** OTHER */
 h1 {font-size: 3em;}
 .claim {font-size: 1.25em; line-height: 1.5;}
 .intro-pros {margin-top: 2em !important;}
@@ -18,31 +29,21 @@ h1 {font-size: 3em;}
 .skewed-out {perspective-origin: left center; perspective: 1500px; min-height: 300px; transform-style: preserve-3d;}
 .skewed { transform: rotateY(-35deg) rotateX(15deg); }
 /* TODO: not always */
-ul {list-style-image: url("https://www.wuda.io/img/other/checkmark.png"); list-style-position: inside; }
+ul {list-style-image: url("../img/checkmark.png"); list-style-position: inside; }
 ul li {margin-bottom: .25em;}
 /* ----- */
 ul.browser-default {list-style-type: square; list-style-position: inside;}
 ul li.browser-default {margin-bottom: .25em;}
 .tbl-calc td {padding: 7.5px 2.5px; }
 .tbl-calc td:nth-child(2) { text-align: right; }
-.intro-bg { background: url('./img/bgdark.jpg') no-repeat center center fixed #1e2126; 
+.intro-bg { background: url('./../img/bgdark.jpg') no-repeat center center fixed #1e2126; 
   -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; overflow-x: hidden;
 }
-/******************************************************************** FEATURE */
 .app-function h3 {font-size: 2em; line-height: 1.25;}
 .app-function h4 {font-size: 1.25em; font-weight: bold; line-height: 1.25;}
-/******************************************************************** FOOTER */
-.footer {background-color: #333;}
-.footer a {color: #eee;}
-.footer a:hover {color: #62d5ff;}
-.footer-title {font-weight: 600; font-size: 1.15em;}
-.footer-text-1 {font-size: 14px;}
-.footer-link-list {font-size: 14px; list-style-image: none;}
-.footer-subfooter {color: #ddd; font-size: 13px;}
 
 
-
-/******************************************************************** RESPONSIVE CHANGES */
+/******************************************************************** RESPONSIVE */
 /* Big Screens => Standard */
 @media only screen and (max-width : 992px) { }
 /* Small Screens */

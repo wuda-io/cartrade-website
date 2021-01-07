@@ -7,7 +7,7 @@
 							<p class="footer-title">Weiterführende Links</p>
 							<ul class="footer-link-list">
 								<li>> <a href="./nova-bei-differenzbesteuerung.php">NoVA bei Differenzbesteuerung</a></li>
-								<li>> <a href="./fahrzeug-importieren-oesterreich.php">Fahrzeug nach Österreich importieren</a></li>
+								<!--<li>> <a href="./fahrzeug-importieren-oesterreich.php">Fahrzeug nach Österreich importieren</a></li>-->
 							</ul>
 							<p class="footer-title">Funktionen</p>
 							<ul class="footer-link-list">

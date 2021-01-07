@@ -1,15 +1,17 @@
-<!DOCTYPE html>
+<?php
+	/*
+	<!DOCTYPE html>
 <html lang="de">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Professionelle Autohandel-Software - CarTrade</title>
-	<meta name="description" content="Starten Sie mit der besten Software für den Fahrzeughandel. Übersichtliche Fahrzeug- und Kundenverwaltung mit NoVA-Berechnung. Jetzt kostenlos testen!">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<title></title>
+	<meta name="description" content="">
+	<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
 	<link rel="apple-touch-icon" href="https://cartrade.wuda.io/img/apple-touch-icon.png"/>
 	<!-- Facebook Open Graph -->
-	<meta property="og:image" content="https://cartrade.wuda.io/img/opengraph-CarTrade.png">
+	<meta property="og:image" content="">
 	<meta property="og:title" content="Autohandel und Import einfach mit Wuda CarTrade">
 	<meta property="og:description" content="Nova, USt. und schöne Kaufverträge automatisch. Jetzt kostenlos testen!">
 	<meta property="og:type" content="Website">
@@ -24,30 +26,41 @@
 </head>
 <body>
 	<main>
+*/
 
-		<!-- Intro -->
-		<div class="intro-bg print-page">
-			<div class="container">
-				<div class="row banner" >
-					<div class="col s12 m12 l6">
-						<a href="https://cartrade.wuda.io"><img src="img/cartrade_logo.png" class="logo-img" alt="CarTrade" /></a>
-						<h1>Autohandel leicht gemacht</h1>
-						<h2 class="claim">Profitieren Sie vom besten Werkzeug, dass speziell für den Import und Handel von Autos gemacht wurde und verwalten Sie Ihre Fahrzeuge schnell und einfach mit Wuda CarTrade.</h2>
-						<a href="cta.php" target="_blank" class="btn-flat btn-large btn-cta no-print" title="Hier klicken um mehr zu erfahren">Jetzt kostenlos testen</a>
-						<ul class="intro-pros">
-							<li>Einfache Verwaltung von Fahrzeugen</li>
-							<li>Mehr Umsatz mit optimalen Fahrzeug-Import</li>
-							<li>Komfort, Benutzerfreundlichkeit und Sicherheit</li>
-						</ul>
-					</div>
-					<div class="col s12 m12 l6">
-						<div class="skewed-out" data-aos="fade-left" data-aos-offset="100">
-							<img src="img/app/dashboard.png" class="responsive-img skewed z-depth-5 product-preview" alt="CarTrade Software für den Auto Import" />
-						</div>
+	//===== HEADER
+	include_once(__DIR__.'/_headerfunc.php');
+	echo getHeader(
+		"Professionelle Autohandel-Software - CarTrade",
+		"Starten Sie mit der besten Software für den Fahrzeughandel. Übersichtliche Fahrzeug- und Kundenverwaltung mit NoVA-Berechnung. Jetzt kostenlos testen!",
+		"./img/opengraph-CarTrade.png",
+		false
+	);
+?>
+
+	<!-- Intro -->
+	<div class="intro-bg print-page">
+		<div class="container">
+			<div class="row banner" >
+				<div class="col s12 m12 l6">
+					<a href="."><img src="./img/cartrade_logo.png" class="logo-img" alt="CarTrade" /></a>
+					<h1>Autohandel leicht gemacht</h1>
+					<h2 class="claim">Profitieren Sie vom besten Werkzeug, dass speziell für den Import und Handel von Autos gemacht wurde und verwalten Sie Ihre Fahrzeuge schnell und einfach mit Wuda CarTrade.</h2>
+					<a href="cta.php" target="_blank" class="btn-flat btn-large btn-cta no-print" title="Hier klicken um mehr zu erfahren">Jetzt kostenlos testen</a>
+					<ul class="intro-pros">
+						<li>Einfache Verwaltung von Fahrzeugen</li>
+						<li>Mehr Umsatz mit optimalen Fahrzeug-Import</li>
+						<li>Komfort, Benutzerfreundlichkeit und Sicherheit</li>
+					</ul>
+				</div>
+				<div class="col s12 m12 l6">
+					<div class="skewed-out" data-aos="fade-left" data-aos-offset="100">
+						<img src="./img/app/dashboard.png" class="responsive-img skewed z-depth-5 product-preview" alt="CarTrade Software für den Auto Import" />
 					</div>
 				</div>
 			</div>
 		</div>
+	</div>
 
 <!--
 		Wuda CarTrade ist eine Software die den Autohandel und die Datenverwaltung von Fahrzeugen, Kunden, Lieferanten, Kaufverträgen und Transportlisten einfacher und besser macht. CarTrade bietet viele Schnittstellen inkl. automatischer NoVA-Berechnung und Überprüfung der Finanzsperre. Somit behalten Sie mit CarTrade stets den Überblick über Ihre Fahrzeuge und sind anderen KFZ-Händlern um ein Vielfaches vorraus.
@@ -248,5 +261,6 @@
 		-->
 		
 <?php
-	include_once(__DIR__.'/_footer.php');
+  //===== FOOTER
+  include_once(__DIR__.'/_footer.php');
 ?>

@@ -1,7 +1,11 @@
 <?php
 	//===== HEADER
 	include_once(__DIR__.'/_headerfunc.php');
-	echo getHeader("Fahrzeug nach Österreich importieren", "Hier erfährst du, wie der Fahrzeugimport aus der EU nach Österreich funktioniert.", "./img/deal.jpg");
+	echo getHeader(
+		"Fahrzeug nach Österreich importieren",
+		"Hier erfährst du, wie der Fahrzeugimport aus der EU nach Österreich funktioniert.",
+		"./img/deal.jpg"
+	);
 ?>
 
 <!-- Text-Image -->
