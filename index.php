@@ -20,58 +20,7 @@
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 	<link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
-	<style>
-		.intro-bg {
-			background: url('../img/bgdark.jpg') no-repeat center center fixed #1e2126; 
-			-webkit-background-size: cover;
-			-moz-background-size: cover;
-			-o-background-size: cover;
-			background-size: cover;
-			overflow-x: hidden;
-		}
-		.app-function h3 {font-size: 2em; line-height: 1.25;}
-		.app-function h4 {font-size: 1.25em; font-weight: bold; line-height: 1.25;}
-
-		.footer a {color: #eee;}
-		.footer a:hover {color: #62d5ff;}
-		.footer-title {font-weight: 600; font-size: 1.15em;}
-
-		h1 {font-size: 3em; margin-top: .5em; line-height: 1.25; margin-bottom: .25em;}
-		.claim {font-size: 1.25em; line-height: 1.5;}
-		.intro-pros {margin-top: 2em !important;}
-		.logo-img {max-width: 120px;}
-		.banner {padding: 5em 0; padding-bottom: 10em; color: white; height: 800px;}
-		.product-preview {margin-top: 5em;}
-		.btn-cta { background-color: #1e7da1; color: white; }
-		.btn-cta:hover {background-color: hsl(196, 69%, 47%);}
-		.skewed-out {perspective-origin: left center; perspective: 1500px; min-height: 300px; transform-style: preserve-3d;}
-    .skewed { transform: rotateY(-35deg) rotateX(15deg); }
-		ul {list-style-image: url("https://www.wuda.io/img/other/checkmark.png"); list-style-position: inside; }
-		ul li {margin-bottom: .25em;}
-		/* Big Screens */
-		@media only screen and (max-width : 992px) {
-		}
-		/* Small Screens */
-		@media only screen and (max-width : 600px) {
-			h1 {margin: 0; margin-top: .5em; font-size: 2.75em;}
-			.banner {padding: 0;}
-			.product-preview {margin-top: 1em;}
-		}
-		/* Print */
-		@media print {
-			body {font-size: 10pt;}
-			h1 {font-size: 35pt;}
-			.app-function h3 {font-size: 15pt; line-height: 1.25;}
-    	.no-print, .no-print * { display: none !important; }
-			.intro-bg, .banner {background: #fff; color: black; overflow-x:initial; }
-			.skewed {transform: none;}
-			.product-preview {margin: 0;}
-			.responsive-img {max-height: 220pt;}
-			.claim {margin-bottom: 2em;}
-			.skewed-out { display: block; perspective-origin: none; perspective:none; transform-style: unset; margin: 0; }
-			.print-page {page-break-after: always;}
-		}
-	</style>
+	<link rel="stylesheet" href="./style.css">
 </head>
 <body>
 	<main>
@@ -82,8 +31,8 @@
 				<div class="row banner" >
 					<div class="col s12 m12 l6">
 						<a href="https://cartrade.wuda.io"><img src="img/cartrade_logo.png" class="logo-img" alt="CarTrade" /></a>
-						<h1>Wuda CarTrade<br>Autohandel leicht gemacht</h1>
-						<h2 class="claim">Profitieren Sie von der ersten Software die speziell für den Import und Handel von Autos gemacht wurde und verwalten Sie Ihre Fahrzeuge schnell und einfach mit Wuda CarTrade.</h2>
+						<h1>Autohandel leicht gemacht</h1>
+						<h2 class="claim">Profitieren Sie vom besten Werkzeug, dass speziell für den Import und Handel von Autos gemacht wurde und verwalten Sie Ihre Fahrzeuge schnell und einfach mit Wuda CarTrade.</h2>
 						<a href="cta.php" target="_blank" class="btn-flat btn-large btn-cta no-print" title="Hier klicken um mehr zu erfahren">Jetzt kostenlos testen</a>
 						<ul class="intro-pros">
 							<li>Einfache Verwaltung von Fahrzeugen</li>
@@ -271,7 +220,6 @@
 			</form>
 		</div>
 
-
 		<!-- Zahlungsarten -->
 		<!--
 		<div class="section" style="background-color: #1e7da1;">
@@ -299,119 +247,6 @@
 		</div>
 		-->
 		
-
-
-		<!-- Footer -->
-		<div class="footer no-print">
-			<div class="section" style="background-color: #333;">
-				<div style="color: #aaa;" class="container">
-					<div class="row">
-						<div class="col s12 m5">
-							<p class="footer-title">Weiterführende Links</p>
-							<ul style="font-size: 14px; list-style-image: none;">
-								<li><a href="https://cartrade.wuda.io/nova-bei-differenzbesteuerung.html">> NoVA bei Differenzbesteuerung</a></li>
-								<li>> Einfache Fahrzeugverwaltung</li>
-								<li>> Eingebaute NoVA-Berechnung</li>
-								<li>> Zulassungsüberprüfung via FIN</li>
-								<li>> Kundendatenbank</li>
-								<li>> 1-Klick Kaufvertrag</li>
-								<li>> Dokumenten-Management</li>
-								<li>> Modular und individuell anpassbar</li>
-							</ul>
-						</div>
-						<div class="col s12 m4">
-							<p class="footer-title">Kontakt</p>
-							<p style="font-size: 14px; list-style-image: none;">
-								<a href="https://cartrade.wuda.io/">CarTrade</a> ist ein Produkt von<br>
-								Wuda Software<br>
-								Jakob-Haringer-Straße 6<br>
-								5020 Salzburg<br>
-								<br>
-								E-Mail: <a href="https://wuda.io/contact-via-mail.php">info@wuda.io</a><br>
-								Tel.: +43 664 37 69 013<br>
-								<!--<a target="_blank" href="https://www.facebook.com/wudacartrade/">CarTrade auf Facebook</a>-->
-							</p>
-						</div>
-						<div class="col s12 m3 right-align">
-							<p class="footer-title">Informationen</p>
-							<ul style="font-size: 14px; list-style-image: none;">
-								<li>Häufig gestellte Fragen (FAQ)</li>
-								<li>FIN abfragen</li>
-								<li>NoVA-Rechner</li>
-							</ul>
-							<p class="footer-title">Socialmedia</p>
-							<ul style="font-size: 14px; list-style-image: none;">
-								<!--<li><a target="_blank" href="https://www.facebook.com/wudacartrade/">Facebook</a></li>-->
-								<li><a target="_blank" href="https://www.instagram.com/wuda.io/">Instagram</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="section grey darken-4">
-				<div class="container">
-					<div style="color: #ddd; font-size: 13px;">
-						<span>&copy; Copyright by <a href="https://www.wuda.io" target="_blank">Wuda Software</a></span>						
-						<span style="float: right;">
-							<a style="margin-right: 3em;" href="https://www.wuda.io/impressum">Impressum</a>
-							<a style="margin-right: 3em;" href="https://www.wuda.io/datenschutz">Datenschutz</a>
-							<a href="agb.html">AGB</a>
-						</span>
-						<div style="clear: both;"></div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-
-
-
-	</main>
-	<!-- Structured Data -->
-	<script type='application/ld+json'>
-		{
-			"@context":"http://schema.org",
-			"@type":"Review",
-			"datePublished":"2020-05-01T20:00",
-			"author": {
-				"@type":"Person",
-				"name":"Daniel Wurzer"
-			},
-			"publisher": {
-				"@type":"Organization",
-				"name":"Wuda Software",
-				"sameAs":"https://www.wuda.io/"
-			},			
-			"inLanguage":"de",
-			"itemReviewed": {
-				"@type":"Product",
-				"name": "CarTrade",
-				"image": "https://cartrade.wuda.io/img/opengraph-CarTrade.png",
-				"description":"Autohandel und Import leicht gemacht",
-				"brand": "Wuda",
-				"aggregateRating": {
-					"@type": "AggregateRating",
-					"ratingValue": "5",
-					"bestRating": "5",
-					"ratingCount": "2"
-				}
-			}
-		}
-	</script>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-38777141-6"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-		gtag('config', 'UA-38777141-6');
-	</script>
-	<!-- JS -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-	<script>
-		M.AutoInit();
-		AOS.init();
-	</script>
-</body>
-</html>
+<?php
+	include_once(__DIR__.'/_footer.php');
+?>

@@ -1,44 +1,18 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Fahrzeug nach Österreich importieren</title>
-	<meta name="description" content="Starten Sie mit der besten Software für den Fahrzeughandel. Übersichtliche Fahrzeug- und Kundenverwaltung mit NoVA-Berechnung. Jetzt kostenlos testen!">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<link rel="apple-touch-icon" href="./img/apple-touch-icon.png"/>
-	<!-- Facebook Open Graph -->
-	<meta property="og:image" content="./img/better-tax.jpg">
-	<meta property="og:title" content="NoVA bei Differenzbesteuerung">
-	<meta property="og:description" content="NoVA und Differenzbesteuerung gemeinsam treten nur dann auf, wenn ein Auto im Ausland von einer Privatperson gekauft wird.">
-	<meta property="og:type" content="Website">
-	<meta property="og:site_name" content="Wuda CarTrade">
-	<!-- CSS -->
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,500">
-	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-	<link rel="stylesheet" href="./style.css">
-</head>
-<body>
-	<main>
-
-		<!-- Header -->
-		<div class="blue darken-4 white-text">
-			<div class="container section">
-				<a href="." class="white-text">Wuda CarTrade</a>
-			</div>
-		</div>
+<?php
+	//===== HEADER
+	include_once(__DIR__.'/_headerfunc.php');
+	echo getHeader("Wie funktioniert die NoVA bei Differenzbesteuerung?", "NoVA und Differenzbesteuerung gemeinsam treten nur dann auf, wenn ein Auto einer Privatperson importiert wird.", "./img/better-tax.jpg");
+?>
 
 		<!-- Text-Image -->
 		<div class="app-function print-page">
 			<div class="container">
 				<div class="row">
 					<div class="col s12 m8 offset-m2">
-						<img src="./img/better-tax.jpg" style="width:100%" alt="Rechner mit Vertrag"/>
+						<img src="https://cartrade.wuda.io/img/better-tax.jpg" style="width:100%" alt="Rechner mit Vertrag"/>
 					</div>
 					<div class="col s12 m8 offset-m2">
-						<h1 class="section">Ein Fahrzeug nach Österreich importieren</h1>
+						<h1 class="section">Wie funktioniert die NoVA bei Differenzbesteuerung?</h1>
           </div>
           <div class="col s12 m8 offset-m2">
             <p class="flow-text">Die NoVA ist eine spezielle Fahrzeugsteuer in Österreich und bedeutet Normverbrauchsabgabe. Die NoVA ist eine Zulassungssteuer die bei der erstmaligen Zulassung des Autos in Österreich zum Tragen kommt. Eine Differenzbesteuerung tritt auf wenn das Fahrzeug von einer Privatperson erworben wird.</p>
@@ -157,73 +131,6 @@
 		</div>
 
 
-
-
-		
-		<!-- Footer -->
-		<div class="footer no-print">
-			<div class="section" style="background-color: #333;">
-				<div style="color: #aaa;" class="container">
-					<div class="row">
-						<div class="col s12 m5">
-							<p class="footer-title">Weiterführende Links</p>
-							<ul style="font-size: 14px; list-style-image: none;">
-								<li><a href="./nova-bei-differenzbesteuerung.html">> NoVA bei Differenzbesteuerung</a></li>
-								<li>> Einfache Fahrzeugverwaltung</li>
-								<li>> Eingebaute NoVA-Berechnung</li>
-								<li>> Zulassungsüberprüfung via FIN</li>
-								<li>> Kundendatenbank</li>
-								<li>> 1-Klick Kaufvertrag</li>
-								<li>> Dokumenten-Management</li>
-								<li>> Modular und individuell anpassbar</li>
-							</ul>
-						</div>
-						<div class="col s12 m4">
-							<p class="footer-title">Kontakt</p>
-							<p style="font-size: 14px; list-style-image: none;">
-								<a href="./">CarTrade</a> ist ein Produkt von<br>
-								Wuda Software<br>
-								Jakob-Haringer-Straße 6<br>
-								5020 Salzburg<br>
-								<br>
-								E-Mail: <a href="https://wuda.io/contact-via-mail.php">info@wuda.io</a><br>
-								Tel.: +43 664 37 69 013<br>
-								<!--<a target="_blank" href="https://www.facebook.com/wudacartrade/">CarTrade auf Facebook</a>-->
-							</p>
-						</div>
-						<div class="col s12 m3 right-align">
-							<p class="footer-title">Informationen</p>
-							<ul style="font-size: 14px; list-style-image: none;">
-								<li>Häufig gestellte Fragen (FAQ)</li>
-								<li>FIN abfragen</li>
-								<li>NoVA-Rechner</li>
-							</ul>
-							<p class="footer-title">Socialmedia</p>
-							<ul style="font-size: 14px; list-style-image: none;">
-								<!--<li><a target="_blank" href="https://www.facebook.com/wudacartrade/">Facebook</a></li>-->
-								<li><a target="_blank" href="https://www.instagram.com/wuda.io/">Instagram</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="section grey darken-4">
-				<div class="container">
-					<div style="color: #ddd; font-size: 13px;">
-						<span>&copy; Copyright by <a href="https://www.wuda.io" target="_blank">Wuda Software</a></span>						
-						<span style="float: right;">
-							<a style="margin-right: 3em;" href="https://www.wuda.io/impressum">Impressum</a>
-							<a style="margin-right: 3em;" href="https://www.wuda.io/datenschutz">Datenschutz</a>
-							<a href="agb.html">AGB</a>
-						</span>
-						<div style="clear: both;"></div>
-					</div>
-				</div>
-			</div>
-		</div>
-		
-
-    
-	</main>
-</body>
-</html>
+<?php
+	include_once(__DIR__.'/_footer.php');
+?>
