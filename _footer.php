@@ -54,8 +54,8 @@
 					<div class="footer-subfooter">
 						<span>&copy; Copyright by <a href="https://www.wuda.io" target="_blank">Wuda Software</a></span>						
 						<span style="float: right;">
-							<a style="margin-right: 3em;" href="https://www.wuda.io/impressum">Impressum</a>
-							<a style="margin-right: 3em;" href="https://www.wuda.io/datenschutz">Datenschutz</a>
+							<a style="margin-right: 3em;" href="https://www.wuda.io/impressum.php">Impressum</a>
+							<a style="margin-right: 3em;" href="https://www.wuda.io/datenschutz.php">Datenschutz</a>
 							<a href="agb.php">AGB</a>
 						</span>
 						<div style="clear: both;"></div>
