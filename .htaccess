@@ -1,0 +1,2 @@
+RewriteEngine On
+RedirectMatch 301 ^(.*)\.html$ $1.php
