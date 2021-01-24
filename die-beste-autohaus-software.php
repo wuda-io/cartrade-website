@@ -1,31 +1,26 @@
 <?php
 	//===== HEADER
 	include_once(__DIR__.'/_headerfunc.php');
-	echo getHeader("NoVA bei Differenzbesteuerung? Wuda CarTrade", "NoVA und Differenzbesteuerung gemeinsam treten nur dann auf, wenn ein Auto einer Privatperson importiert wird.", "./img/better-tax.jpg");
+	echo getHeader("Die beste Autohaus Software? Wuda CarTrade", "Hier erfahren Sie warum Wuda CarTrade die beste Autohaus Software ist und welche Vorteile Sie davon haben.", "./img/bgdark.jpg");
 ?>
 	<!-- Article Image -->
 	<div class="article-image">
-		<img src="https://cartrade.wuda.io/img/better-tax.jpg" alt="Rechner mit Vertrag"/>
+		<img src="https://cartrade.wuda.io/img/bgdark.jpg" alt="Dunkles Bild eines modernen BMWs der ausgestellt wird"/>
 	</div>
 
 		<!-- Text-Image -->
-		<div class="app-function print-page">
+		<div class="print-page">
 			<div class="container">
 				<div class="row">
 					<div class="col s12 m10 offset-m1 l8 offset-l2">
-						<h1 class="section">NoVA bei Differenzbesteuerung</h1>
+						<h1 class="section">Die beste Autohaus Software</h1>
           </div>
           <div class="col s12 m10 offset-m1 l8 offset-l2">
-            <p class="flow-text">NoVA ist eine spezielle Fahrzeugsteuer in Österreich und bedeutet Normverbrauchsabgabe. Diese Steuer ist eine Zulassungssteuer die bei der Zulassung des Autos in Österreich zum Tragen kommt. Eine Differenzbesteuerung tritt auf, wenn ein Fahrzeug von einer Privatperson erworben wird und keine gesonderte Umsatzsteuer ausgewiesen wird.</p>
-						<h2>Wann NoVA und Differenzbesteuerung angewendet wird</h2>
-						<p>Anwendung der Differenzbesteuerung:</p>
-						<blockquote>
-						§ 24 UStG besagt, dass die Differenzbesteuerung bei beweglichen, körperlichen Gegenständen anzuwenden ist, die ein Unternehmer von einem Nichtunternehmer zur gewerblichen Weiterveräußerung erwirbt.
-						</blockquote>
-						<p>NoVA und Differenzbesteuerung gemeinsam treten nur dann auf, wenn ein Auto im Ausland von einer Privatperson gekauft wird.
-							Hierbei gilt es zu beachten, dass die Vorsteuer bereits im Kaufpreis enthalten ist und die NoVA aber nur auf den Netto-Betrag gerechnet werden kann.
-							Es ist also erforderlich, einen theoretischen Netto-Betrag zu ermitteln, mit dem die Normverbrauchsabgabe errechnet werden kann.
-							Der theoretischen Netto-Betrag wird Rückwärts vom Brutto-Verkaufspreis berechnet.</p>
+            <p class="flow-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum beatae debitis placeat minima quidem qui at, sunt illum omnis. Iure, accusantium sunt? Mollitia expedita magni nisi incidunt tempora hic maiores.</p>
+						<h2>Was Wuda CarTrade zur besten Autohaus Software macht</h2>
+						<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium, explicabo ea! Necessitatibus expedita, maxime asperiores nesciunt dolorum alias error perspiciatis eligendi, sunt deserunt quasi? Ea vitae a assumenda nulla non.
+							Lorem ipsum dolor sit amet consectetur adipisicing elit. Et beatae non quasi fugit, qui quis corporis perspiciatis eveniet, dicta aperiam id veritatis quas numquam similique, minima iste praesentium deleniti perferendis.
+						</p>
           </div>
 				</div>
 			</div>
@@ -34,31 +29,18 @@
 		<!-- CTA -->
 		<div class="section grey lighten-3 call-to-action">
 			<form class="center-align no-print">				
-				<h4>Mehr erfahren?<br>Wuda CarTrade 14 Tage lang testen</h4>
-				<a href="cta.php" class="btn-flat btn-cta" target="_blank" title="Hier klicken um mehr zu erfahren">Jetzt kostenlos testen</a>
+				<h4>Worauf warten Sie noch? Entspannt testen</h4>
+				<a href="cta.php" class="btn-flat btn-cta" target="_blank" title="Hier klicken um mehr zu erfahren">Jetzt Durchstarten</a>
 			</form>
 		</div>
 
     <!-- Text -->
-		<div class="app-function section print-page">
+		<div class="section print-page">
 			<div class="container">
 				<div class="row">
           <div class="col s12 m10 offset-m1 l8 offset-l2">
-						<h2>Was bei der Differenzbesteuerung zu beachten ist</h2>
-						<p>Steuerpflichtig nur der erzielte Mehrerlös.
-						<ul class="browser-default">
-							<li>Erzielter Mehrerlös ist ein Bruttobetrag</li>
-							<li>Nur der Mehrerlös (netto) ist in die UVA aufzunehmen.</li>
-							<li>Verbesserung nicht schädlich.</li>
-							<li>Umsatzsteuer darf in Rechnung nicht gesondert ausgewiesen werden.</li>
-							<li>Hinweis auf Differenzbesteuerung in Ausgangsrechnung.</li>
-							<li>Fahrzeuge können auch aus dem übrigen Gemeinschaftsgebiet differenzbesteuert erworben werden.</li>
-							<li>Differenzbesteuerung und Kleinunternehmerregelung schließen sich aus.</li>
-						</ul>
-						</p>
-            <p>Normalerweise wird daher in diesen Fällen retrograd, ausgehend vom Bruttoverkaufspreis, die NoVA bzw. die Bemessungsgrundlage für die Umsatzsteuer (Differenz) zu ermitteln sein.<br><br>
-							<b>Achtung:</b><br>
-							Der anzuwendende NoVA-Tarif richtet sich nach der erstmaligen Zulassung des Fahrzeuges zum Verkehr in der EU!</p>
+						<h2>Welche Vorteile Sie davon haben</h2>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quasi blanditiis accusantium nisi iusto aspernatur dolor libero ut unde totam optio veniam nobis, atque vel asperiores odio harum obcaecati! Alias.</p>
           </div>
 				</div>
 			</div>
@@ -96,26 +78,12 @@
 		</div>
 
     <!-- Text -->
-		<div class="app-function section print-page">
+		<div class="section print-page">
 			<div class="container">
 				<div class="row">
           <div class="col s12 m10 offset-m1 l8 offset-l2">
-            <h3>Beispiel</h3>
-						<p><i>Einkauf eines KFZ in der EU differenzbesteuert.</i><br><br>
-						Differenzbesteuerter Einkaufspreis € 10.000,--<br>
-						Bruttoverkaufspreis (BVKP) in Österreich € 15.000,-<br> NoVA 8 %, Diesel.<br><br>
-							<table class="striped tbl-calc">
-								<tr><td>Bruttoverkaufspreis (BVKP)</td><td>€ 15.000,--</td></tr>
-								<tr><td>Kürzungsbetrag NoVA</td><td>300,--</td></tr>
-								<tr><td>Nettoverkaufspreis (NVKP)</td><td>€ 11.953,12</td></tr>
-								<tr class="red-text"><td>x 100 / 128 = NoVA (956,25 – 300,--)</td><td>€ 656,25</td></tr>
-								<tr><td>NVKP € 11.953,12 x 1,2 =</td><td>€ 14.343,74</td></tr>
-								<tr><td>Verkaufspreis inkl. USt</td><td>€ 14.343,74</td></tr>
-								<tr><td>Einkaufspreis differenzbest.</td><td>€ 10.000,--</td></tr>
-								<tr><td>Mehrerlös brutto</td><td>€ 4.343,74</td></tr>
-								<tr class="red-text"><td>USt daher</td><td>€ 723,96</td></tr>
-							</table>
-						</p>
+            <h3>Wie Sie Ihr Unternehmen mit Wuda CarTrade ausstatten</h3>
+						<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro, error velit perferendis perspiciatis eveniet architecto obcaecati? Minus rerum iusto asperiores sint, cumque odit dignissimos atque unde soluta eaque perferendis non.</p>
           </div>
 				</div>
 			</div>
@@ -124,7 +92,7 @@
 		<!-- CTA -->
 		<div class="section grey lighten-3 call-to-action">
 			<form class="center-align no-print">				
-				<h4>Zu kompliziert?<br>Jetzt CarTrade mit integriertem NoVA-Rechner testen</h4>
+				<h4>Überzeugt? Jetzt mit Vollgas und Wuda CarTrade durchstarten</h4>
 				<a href="cta.php" class="btn-flat btn-cta" target="_blank" title="Hier klicken um mehr zu erfahren">Jetzt kostenlos testen</a>
 			</form>
 		</div>

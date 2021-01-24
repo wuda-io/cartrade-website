@@ -1,14 +1,14 @@
 <?php
 	//===== HEADER
 	include_once(__DIR__.'/_headerfunc.php');
-	echo getHeader("Häufig gestellte Fragen (FAQ) - Wuda CarTrade", "Hier werden die häufigsten Fragen zu Wuda CarTrade beantwortet.");
+	echo getHeader("Häufig gestellte Fragen (FAQ) zu Wuda CarTrade", "Hier werden die häufigsten Fragen zu Wuda CarTrade beantwortet.");
 ?>
 <!-- Info -->
 <div>
   <div class="container">
     <h1 class="center-align">Häufig gestellte Fragen (FAQ)</h1>
     <div class="row">
-      <div class="col s12">
+      <div class="col s12 m10 offset-m1 l8 offset-l2">
         <!-- Question -->
         <h2>Was ist Wuda CarTrade?</h2>
         <p>Wuda CarTrade ist ein Werkzeug um den Autohandel zu erleichtern. Dies wird durch eine schöne und schnelle Software-Plattform von Wuda Software ermöglicht.</p>

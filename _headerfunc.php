@@ -1,5 +1,11 @@
 <?php
+// Global Things
+$gTitle = '';
+$gURL = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+
 function getHeader($title, $description, $imageURL=null, $withHeaderBar=true) {
+  global $gTitle;
+  $gTitle = $title;
 $outpHeader = '<!DOCTYPE html>
 <html lang="de">
 <head>
@@ -34,4 +40,3 @@ if ($withHeaderBar)
     </div>';
   return $outpHeader;
 }
-?>

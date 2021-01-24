@@ -1,8 +1,8 @@
 /******************************************************************** BASIC */
-h1 {font-size: 2.5em; margin-top: .5em; line-height: 1.25; margin-bottom: .25em;}
-h2 {font-size: 1.4em; font-weight: bold;}
-h3 {font-size: 1.3em; font-weight: bold;}
-h4 {font-size: 1.2em; font-weight: bold;}
+h1 {font-size: 2.5em; margin-top: .5em; line-height: 1.25; margin-bottom: .25em; word-wrap: break-word; font-weight: 600;}
+h2 {font-size: 1.75em; font-weight: 600;}
+h3 {font-size: 1.5em; font-weight: 600;}
+h4 {font-size: 1.25em; font-weight: 600;}
 
 /******************************************************************** HEADER */
 .header-bar {background-color: #1e7da1;}
@@ -18,7 +18,6 @@ h4 {font-size: 1.2em; font-weight: bold;}
 
 
 /******************************************************************** OTHER */
-h1 {font-size: 3em;}
 .claim {font-size: 1.25em; line-height: 1.5;}
 .intro-pros {margin-top: 2em !important;}
 .logo-img {max-width: 120px;}
@@ -28,20 +27,33 @@ h1 {font-size: 3em;}
 .btn-cta:hover {background-color: hsl(196, 69%, 47%);}
 .skewed-out {perspective-origin: left center; perspective: 1500px; min-height: 300px; transform-style: preserve-3d;}
 .skewed { transform: rotateY(-35deg) rotateX(15deg); }
+
+
+
 /* TODO: not always */
+/*
 ul {list-style-image: url("../img/checkmark.png"); list-style-position: inside; }
 ul li {margin-bottom: .25em;}
 /* ----- */
-ul.browser-default {list-style-type: square; list-style-position: inside;}
+ul.browser-default {padding:0; list-style-image: none; list-style-type: square; list-style-position: inside;}
 ul li.browser-default {margin-bottom: .25em;}
+
+
+.tbl-calc {font-size: .9em;}
 .tbl-calc td {padding: 7.5px 2.5px; }
 .tbl-calc td:nth-child(2) { text-align: right; }
+
 .intro-bg { background: url('./../img/bgdark.jpg') no-repeat center center fixed #1e2126; 
   -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; overflow-x: hidden;
 }
-.app-function h3 {font-size: 2em; line-height: 1.25;}
-.app-function h4 {font-size: 1.25em; font-weight: bold; line-height: 1.25;}
 
+.article-image img { width:100%; max-height: 300px; object-fit: cover; }
+
+.call-to-action h4 {font-size: 1.25em;}
+.call-to-action a {margin-bottom: 2em; min-width: 230px;}
+
+.share-social a {margin-right: 1em;}
+.share-social a:last-of-type {margin-right: 0;}
 
 /******************************************************************** RESPONSIVE */
 /* Big Screens => Standard */
