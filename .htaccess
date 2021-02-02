@@ -1,0 +1,16 @@
+# Redirects
+#Redirect /nova-bei-differenzbesteuerung.html /nova-bei-differenzbesteuerung.php
+#Options +FollowSymLinks
+#RewriteEngine On
+#RewriteRule nova-bei-differenzbesteuerung.html /nova-bei-differenzbesteuerung.php [QSA,L]
+
+#<IfModule mod_rewrite.c>
+#Redirect /nova-bei-differenzbesteuerung.html https://cartrade.wuda.io/nova-bei-differenzbesteuerung.php
+#</IfModule>
+
+RewriteEngine On
+#RewriteRule ^(.*)\.html$ $1.php [L,R]
+#RewriteRule ^(.+)\.html$ $1.php
+RedirectMatch 301 ^(.nova-bei-differenzbesteuerung*)\.html$ $1.php
+
+#RedirectPermanent /contact.php /contact-us.php 
