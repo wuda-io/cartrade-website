@@ -24,7 +24,7 @@ h4 {font-size: 1.25em; font-weight: 600;}
 .banner {padding: 5em 0; padding-bottom: 10em; color: white; height: 800px;}
 .product-preview {margin-top: 5em;}
 .btn-cta { background-color: #1e7da1; color: white; }
-.btn-cta:hover {background-color: hsl(196, 69%, 47%);}
+.btn-cta:hover {background-color: #259ecb;}
 .skewed-out {perspective-origin: left center; perspective: 1500px; min-height: 300px; transform-style: preserve-3d;}
 .skewed { transform: rotateY(-35deg) rotateX(15deg); }
 
@@ -49,10 +49,12 @@ ul li.browser-default {margin-bottom: .25em;}
 
 .article-image img { width:100%; max-height: 300px; object-fit: cover; }
 
-.call-to-action h4 {font-size: 1.25em;}
+.call-to-action h4 {font-size: 1.25em; line-height: 1.4;}
 .call-to-action a {margin-bottom: 2em; min-width: 230px;}
 
-.share-social a {margin-right: 1em;}
+
+.share-social a {margin-right: 1em; color: #1e7da1;}
+.share-social a:hover {color: #259ecb;}
 .share-social a:last-of-type {margin-right: 0;}
 
 /******************************************************************** RESPONSIVE */

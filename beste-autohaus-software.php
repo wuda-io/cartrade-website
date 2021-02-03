@@ -1,31 +1,39 @@
 <?php
 	//===== HEADER
 	include_once(__DIR__.'/_headerfunc.php');
-	echo getHeader("NoVA bei Differenzbesteuerung? Wuda CarTrade", "NoVA und Differenzbesteuerung gemeinsam treten nur dann auf, wenn ein Auto einer Privatperson importiert wird.", "./img/better-tax.jpg");
+	echo getHeader("Die beste Autohaus Software? Wuda CarTrade", "Hier erfahren Sie warum Wuda CarTrade die beste Autohaus Software ist und welche Vorteile Sie davon haben.", "./img/bgdark.jpg");
 ?>
 	<!-- Article Image -->
 	<div class="article-image">
-		<img src="https://cartrade.wuda.io/img/better-tax.jpg" alt="Rechner mit Vertrag"/>
+		<img src="https://cartrade.wuda.io/img/bgdark.jpg" alt="Dunkles Bild eines modernen BMWs der ausgestellt wird"/>
 	</div>
 
 		<!-- Text-Image -->
-		<div class="app-function print-page">
+		<div class="print-page">
 			<div class="container">
 				<div class="row">
 					<div class="col s12 m10 offset-m1 l8 offset-l2">
-						<h1 class="section">NoVA bei Differenzbesteuerung</h1>
+						<h1 class="section">Die beste Autohaus Software für ihr Geschäft</h1>
           </div>
           <div class="col s12 m10 offset-m1 l8 offset-l2">
-            <p class="flow-text">NoVA ist eine spezielle Fahrzeugsteuer in Österreich und bedeutet Normverbrauchsabgabe. Diese Steuer ist eine Zulassungssteuer die bei der Zulassung des Autos in Österreich zum Tragen kommt. Eine Differenzbesteuerung tritt auf, wenn ein Fahrzeug von einer Privatperson erworben wird und keine gesonderte Umsatzsteuer ausgewiesen wird.</p>
-						<h2>Wann NoVA und Differenzbesteuerung angewendet wird</h2>
-						<p>Anwendung der Differenzbesteuerung:</p>
-						<blockquote>
-						§ 24 UStG besagt, dass die Differenzbesteuerung bei beweglichen, körperlichen Gegenständen anzuwenden ist, die ein Unternehmer von einem Nichtunternehmer zur gewerblichen Weiterveräußerung erwirbt.
-						</blockquote>
-						<p>NoVA und Differenzbesteuerung gemeinsam treten nur dann auf, wenn ein Auto im Ausland von einer Privatperson gekauft wird.
-							Hierbei gilt es zu beachten, dass die Vorsteuer bereits im Kaufpreis enthalten ist und die NoVA aber nur auf den Netto-Betrag gerechnet werden kann.
-							Es ist also erforderlich, einen theoretischen Netto-Betrag zu ermitteln, mit dem die Normverbrauchsabgabe errechnet werden kann.
-							Der theoretischen Netto-Betrag wird Rückwärts vom Brutto-Verkaufspreis berechnet.</p>
+            <p class="flow-text">
+						Laut einer Analyse der Deutschen Automobil Treuhand (DAT) von 2019 erkundigen sich 80% aller Neuwagenkäufer online vor dem Kauf ihres Autos und 10% schließen
+						den Autokauf sogar online ab, und der Trend ist auf dem Vormarsch! Dies gibt der Automobilindustrie die Möglichkeit,
+						Softwarelösungen zu verwenden, um potenzielle Kunden frühzeitig in ihrem Entscheidungsprozess zu erfassen und Vor-Ort-Services nahtlos zu integrieren. 	
+						</p>
+						<h2>Insider-Tipp: Warum Sie Wuda CarTrade nutzen sollten</h2>
+						<p>
+							Durch die zunehmende Bedeutung von Online-Verkaufsplattformen überlegen viele Autohändler,
+							wie sie ihre Fahrzeuge in kürzester Zeit auf verschiedenste Autobörsen mit schönen Bildern inserieren können um konkurrenzfähig zu bleiben.<br>
+							Da schönes Bildmaterial zu erstellen und häufiges inserieren jedoch großen Zeitaufwand im hektischen Tagesgeschäft bedeuten,
+							relativiert sich der tatsächliche Erfolg aus dem Online-Vertrieb bei vielen Autohäusern wieder.
+						</p>
+						<p>
+							Wie sieht also die Lösung aus, die schnell und zuverlässig die operativen Herausforderungen des Autohandels vereinfacht?
+							Mit Wuda CarTrade, der besten Autohaus Software, steigern Sie ihren Erfolg mit ausgefeilter Experten-Technologie, die
+							innerhalb von Minuten einsatzbereit ist und sich ihren individuellen Wünschen anpassen lässt.
+							Profitieren Sie noch heute von CarTrade und sichern Sie sich die Vorteile der smarten Lösung für Autohäuser, Gebrauchtwagenhändler und Importeure.
+						</p>
           </div>
 				</div>
 			</div>
@@ -33,38 +41,34 @@
     
 		<!-- CTA -->
 		<div class="section grey lighten-3 call-to-action">
-			<form class="center-align no-print">				
-				<h4>Mehr erfahren?<br>Wuda CarTrade 14 Tage lang testen</h4>
-				<a href="cta.php" class="btn-flat btn-cta" target="_blank" title="Hier klicken um mehr zu erfahren">Jetzt kostenlos testen</a>
+			<form class="center-align no-print">
+				<h4>Worauf warten Sie noch?<br>Testen Sie Wuda CarTrade kostenlos.</h4>
+				<a href="cta.php" class="btn-flat btn-cta" target="_blank" title="Hier klicken um mehr zu erfahren">Jetzt Durchstarten</a>
 			</form>
 		</div>
 
     <!-- Text -->
-		<div class="app-function section print-page">
+		<div class="section print-page">
 			<div class="container">
 				<div class="row">
           <div class="col s12 m10 offset-m1 l8 offset-l2">
-						<h2>Was bei der Differenzbesteuerung zu beachten ist</h2>
-						<p>Steuerpflichtig nur der erzielte Mehrerlös.
+						<h2>Zeitersparnis durch intelligentes Prozessmanagement</h2>
+						<p >Alle Autohändler wissen, dass Geschwindigkeit im Gebrauchtwagengeschäft oberste Priorität hat.
+							Software für Autohändler wie Wuda CarTrade unterstützt Sie bei der Optimierung Ihrer Bestandsführung auf effiziente und individuelle Weise.
+							So überwachen Sie den Zustand Ihrer Gebrauchtfahrzeuge einfach und transparent:</p>
 						<ul class="browser-default">
-							<li>Erzielter Mehrerlös ist ein Bruttobetrag</li>
-							<li>Nur der Mehrerlös (netto) ist in die UVA aufzunehmen.</li>
-							<li>Verbesserung nicht schädlich.</li>
-							<li>Umsatzsteuer darf in Rechnung nicht gesondert ausgewiesen werden.</li>
-							<li>Hinweis auf Differenzbesteuerung in Ausgangsrechnung.</li>
-							<li>Fahrzeuge können auch aus dem übrigen Gemeinschaftsgebiet differenzbesteuert erworben werden.</li>
-							<li>Differenzbesteuerung und Kleinunternehmerregelung schließen sich aus.</li>
+							<li>Definieren Sie relevante Prozessschritte selbst in der Software.</li>
+							<li>Definieren Sie verantwortliche Personen auf jeder Ebene des Prozesses.</li>
+							<li>Behalten Sie den Überblick und wissen Sie stets in welcher Prozessstufe sich das Fahrzeug befindet.</li>
+							<li>Legen Sie einen Zeitplan für den jeweiligen Prozessschritt fest.</li>
+							<li>Erkennen Sie Herausforderungen in täglichen Aktivitäten und nutzen Sie Potentiale gezielt.</li>
 						</ul>
-						</p>
-            <p>Normalerweise wird daher in diesen Fällen retrograd, ausgehend vom Bruttoverkaufspreis, die NoVA bzw. die Bemessungsgrundlage für die Umsatzsteuer (Differenz) zu ermitteln sein.<br><br>
-							<b>Achtung:</b><br>
-							Der anzuwendende NoVA-Tarif richtet sich nach der erstmaligen Zulassung des Fahrzeuges zum Verkehr in der EU!</p>
+						<p><b>Unterstützt durch viele Funktionen:</b> Finden Sie hier heraus, wie Sie durch Effizienzsteigerung des digitalen Verkaufsprozesses dank Wuda CarTrade profitieren.</p>
           </div>
 				</div>
 			</div>
     </div>
-		
-		
+    
 		<!-- Social Sharing -->
 		<div  class="section grey lighten-3 share-social">
       <form class="center-align no-print">
@@ -100,25 +104,19 @@
 		</div>
 
     <!-- Text -->
-		<div class="app-function section print-page">
+		<div class="section print-page">
 			<div class="container">
 				<div class="row">
           <div class="col s12 m10 offset-m1 l8 offset-l2">
-            <h3>Beispiel</h3>
-						<p><i>Einkauf eines KFZ in der EU differenzbesteuert.</i><br><br>
-						Differenzbesteuerter Einkaufspreis € 10.000,--<br>
-						Bruttoverkaufspreis (BVKP) in Österreich € 15.000,-<br> NoVA 8 %, Diesel.<br><br>
-							<table class="striped tbl-calc">
-								<tr><td>Bruttoverkaufspreis (BVKP)</td><td>€ 15.000,--</td></tr>
-								<tr><td>Kürzungsbetrag NoVA</td><td>300,--</td></tr>
-								<tr><td>Nettoverkaufspreis (NVKP)</td><td>€ 11.953,12</td></tr>
-								<tr class="red-text"><td>x 100 / 128 = NoVA (956,25 – 300,--)</td><td>€ 656,25</td></tr>
-								<tr><td>NVKP € 11.953,12 x 1,2 =</td><td>€ 14.343,74</td></tr>
-								<tr><td>Verkaufspreis inkl. USt</td><td>€ 14.343,74</td></tr>
-								<tr><td>Einkaufspreis differenzbest.</td><td>€ 10.000,--</td></tr>
-								<tr><td>Mehrerlös brutto</td><td>€ 4.343,74</td></tr>
-								<tr class="red-text"><td>USt daher</td><td>€ 723,96</td></tr>
-							</table>
+						<h3>Erzielen Sie mehr Umsatz mit smarten Schnittstellen</h3>
+						<p>Der Autohandel verändert sich. Traditionelle Vertriebskanäle werden unbedeutender und Kunden fordern, sich zunehmend Online-Angeboten zuwenden.
+							Das bedeutet jedoch nicht, dass der Einzelhandel veraltet ist! Im Gegenteil, mit Wuda CarTrade haben Sie die Möglichkeit, das Beste aus beiden Welten
+							in einer großartigen Autohaus Software zu kombinieren. 
+						</p>
+						<p>
+							Da die wichtigsten Infrastrukturen bereits vorhanden sind, werden diese genutzt um Kunden, Dienstleister und Lieferanten miteinander zu verbinden.
+							Dank unserer einmaligen Plattform erscheint Ihr Fahrzeug mit nur einem Klick auf verschiedenen Autobörsen.
+							Selbstverständlich können Sie auch noch weitere Anbieter in der besten Software für Autohändler zusammenführen.
 						</p>
           </div>
 				</div>
@@ -127,9 +125,9 @@
 
 		<!-- CTA -->
 		<div class="section grey lighten-3 call-to-action">
-			<form class="center-align no-print">				
-				<h4>Sie wollen es noch einfacher?<br>Testen Sie CarTrade mit NoVA-Rechner</h4>
-				<a href="cta.php" class="btn-flat btn-cta" target="_blank" title="Hier klicken um mehr zu erfahren">Jetzt kostenlos testen</a>
+			<form class="center-align no-print">
+				<h4>Sie wollen Kompetenz und Sicherheit?<br>Jetzt überzeugen und probefahren.</h4>
+				<a href="cta.php" class="btn-flat btn-cta" target="_blank" title="Hier klicken um mehr zu erfahren">CarTrade Kostenlos testen</a>
 			</form>
 		</div>
 

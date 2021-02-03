@@ -38,6 +38,15 @@
     </div>
   </div>
 </div>
+
+<!-- CTA -->
+<div class="section grey lighten-3 call-to-action">
+  <form class="center-align no-print">				
+    <h4>Sie wollen CarTrade einfach testen?<br>Jetzt kostenlos probefahren.</h4>
+    <a href="cta.php" class="btn-flat btn-cta" target="_blank" title="Hier klicken um mehr zu erfahren">Kostenlos testen</a>
+  </form>
+</div>
+
 <?php
   //===== FOOTER
   include_once(__DIR__.'/_footer.php');
