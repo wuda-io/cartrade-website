@@ -38,8 +38,10 @@
 							<p class="footer-title">Informationen</p>
 							<ul class="footer-link-list">
 								<li><a href="./faq.php">Häufig gestellte Fragen (FAQ)</a></li>
+								<!--
 								<li>FIN abfragen</li>
 								<li>NoVA-Rechner</li>
+								-->
 							</ul>
 							<p class="footer-title">Socialmedia</p>
 							<ul class="footer-link-list">

@@ -22,10 +22,10 @@
 						<blockquote>
 						§ 24 UStG besagt, dass die Differenzbesteuerung bei beweglichen, körperlichen Gegenständen anzuwenden ist, die ein Unternehmer von einem Nichtunternehmer zur gewerblichen Weiterveräußerung erwirbt.
 						</blockquote>
-						<p>NoVA und Differenzbesteuerung gemeinsam treten nur dann auf, wenn ein Auto im Ausland von einer Privatperson gekauft wird.
-							Hierbei gilt es zu beachten, dass die Vorsteuer bereits im Kaufpreis enthalten ist und die NoVA aber nur auf den Netto-Betrag gerechnet werden kann.
-							Es ist also erforderlich, einen theoretischen Netto-Betrag zu ermitteln, mit dem die Normverbrauchsabgabe errechnet werden kann.
-							Der theoretischen Netto-Betrag wird Rückwärts vom Brutto-Verkaufspreis berechnet.</p>
+						<p>NoVA und Differenzbesteuerung gemeinsam treten auf, wenn ein Auto im Ausland von einer Privatperson erworben wird.
+							Hier gilt es zu beachten, dass die Vorsteuer bereits im Kaufpreis enthalten ist. Die NoVA wird kann jedoch nur auf den Netto-Betrag angewandt werden.<br>
+							Es ist also erforderlich, einen theoretischen Netto-Betrag zu ermitteln, mit dem die NoVA errechnet werden kann.
+							Der theoretischen Netto-Betrag wird retrograd bzw. rückwärts vom Bruttoverkaufspreis berechnet.</p>
           </div>
 				</div>
 			</div>
@@ -45,20 +45,19 @@
 				<div class="row">
           <div class="col s12 m10 offset-m1 l8 offset-l2">
 						<h2>Was bei der Differenzbesteuerung zu beachten ist</h2>
-						<p>Steuerpflichtig nur der erzielte Mehrerlös.
+						<p>Steuerpflichtig ist nur der erzielte Mehrerlös (Verkaufspreis abzgl. Einkaufspreis). Folgende Dinge sind dabei zu beachten:
 						<ul class="browser-default">
 							<li>Erzielter Mehrerlös ist ein Bruttobetrag</li>
 							<li>Nur der Mehrerlös (netto) ist in die UVA aufzunehmen.</li>
 							<li>Verbesserung nicht schädlich.</li>
 							<li>Umsatzsteuer darf in Rechnung nicht gesondert ausgewiesen werden.</li>
 							<li>Hinweis auf Differenzbesteuerung in Ausgangsrechnung.</li>
-							<li>Fahrzeuge können auch aus dem übrigen Gemeinschaftsgebiet differenzbesteuert erworben werden.</li>
+							<li>Fahrzeuge können aus dem übrigen Gemeinschaftsgebiet differenzbesteuert erworben werden.</li>
 							<li>Differenzbesteuerung und Kleinunternehmerregelung schließen sich aus.</li>
 						</ul>
 						</p>
             <p>Normalerweise wird daher in diesen Fällen retrograd, ausgehend vom Bruttoverkaufspreis, die NoVA bzw. die Bemessungsgrundlage für die Umsatzsteuer (Differenz) zu ermitteln sein.<br><br>
-							<b>Achtung:</b><br>
-							Der anzuwendende NoVA-Tarif richtet sich nach der erstmaligen Zulassung des Fahrzeuges zum Verkehr in der EU!</p>
+						<b>Achtung:</b> Der anzuwendende NoVA-Tarif richtet sich nach der erstmaligen Zulassung des Fahrzeuges zum Verkehr in der EU!</p>
           </div>
 				</div>
 			</div>

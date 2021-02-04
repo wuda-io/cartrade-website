@@ -113,6 +113,9 @@
 							Das bedeutet jedoch nicht, dass der Einzelhandel veraltet ist! Im Gegenteil, mit Wuda CarTrade haben Sie die Möglichkeit, das Beste aus beiden Welten
 							in einer großartigen Autohaus Software zu kombinieren. 
 						</p>
+						<div class="interface-list">
+							<img src="https://cache.willhaben.at/img/headernew/willhaben_logo.svg" alt="Willhaben Logo">
+						</div>
 						<p>
 							Da die wichtigsten Infrastrukturen bereits vorhanden sind, werden diese genutzt um Kunden, Dienstleister und Lieferanten miteinander zu verbinden.
 							Dank unserer einmaligen Plattform erscheint Ihr Fahrzeug mit nur einem Klick auf verschiedenen Autobörsen.
