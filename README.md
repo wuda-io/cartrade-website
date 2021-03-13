@@ -9,14 +9,16 @@
   - 📗 Einkaufspreise setzen
   - 📗 Verkaufspreise setzen
   - 📒 Nebenkosten hinzufügen
-  - 📗 Steuersätze für Österreich
-  - 📙 Steuersätze für Deutschland
-  - 📙 Steuersätze für Schweiz
+  - 📗 Steuersätze
+    - 📗 Steuersätze Österreich
+    - 📙 Steuersätze für Deutschland
+    - 📙 Steuersätze für Schweiz
   - 📒 Differenzbesteuerung
   - 📒 NoVA-Rechner
   - 📙 IGL-Rechnungen
-  - 📗 Währung EUR
-  - 📙 Währung CHF
+  - 📗 Währungen
+    - 📗 Währung EUR
+    - 📙 Währung CHF
   - 📙 Live-Angebotsstream GW-Markt
   - 📙 Bieterfunktion für Fahrzeuge
 - 📒 Kontaktemanagement
