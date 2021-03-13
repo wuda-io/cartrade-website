@@ -6,8 +6,8 @@
 - 📗 Zubehör verwalten
 - 📗 Service verwalten
 - 📒 Preis- und Kostenverwaltung
-  - 📒 Einkaufspreise setzen
-  - 📒 Verkaufspreise setzen
+  - 📗 Einkaufspreise setzen
+  - 📗 Verkaufspreise setzen
   - 📒 Nebenkosten hinzufügen
   - 📗 Steuersätze für Österreich
   - 📙 Steuersätze für Deutschland
@@ -26,9 +26,9 @@
   - 📒 Chat
 - 📒 Dokumentenmanagement
   - 📒 Preistafel erstellen
-  - 📒 Angebot erstellen
-  - 📒 Kaufvertrag erstellen
-  - 📒 Rechnung erstellen
+  - 📗 Angebot erstellen
+  - 📗 Kaufvertrag erstellen
+  - 📗 Rechnung erstellen
   - 📙 Eigene Dokumentenvorlagen / Designs
   - 📗 Produktbilder hochladen
   - 📙 Produktbilder bearbeiten
