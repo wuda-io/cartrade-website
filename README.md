@@ -15,7 +15,9 @@
   - 📒 Differenzbesteuerung
   - 📒 NoVA-Rechner
   - 📙 IGL-Rechnungen
-  - 📙 Angebotsstream Markt
+  - 📗 Währung EUR
+  - 📙 Währung CHF
+  - 📙 Live-Angebotsstream GW-Markt
   - 📙 Bieterfunktion für Fahrzeuge
 - 📒 Kontaktemanagement
   - 📗 Personen verwalten
@@ -37,6 +39,10 @@
   - 📙 Mobile Export
   - 📙 Instagram Export
   - 📙 Facebook Export
+- 📗 Sprachen
+  - 📗 Deutsch
+  - 📗 Englisch
+  - 📙 Türkisch
 - 📙 Zeitmanagement
   - 📙 Interne Terminverwaltung / Firmenkalender
   - 📙 Probefahrtenverwaltung pro Fahrzeug
