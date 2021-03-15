@@ -9,7 +9,7 @@
   - 📗 Service anlegen
   - 📒 Produktbilder hochladen
   - 📙 Produktbilder bearbeiten
- - 📒 Preis- und Kostenverwaltung
+- 📒 Preis- und Kostenverwaltung
   - 📗 Einkaufspreis setzen
   - 📗 Verkaufspreis setzen
   - 📒 Nebenkosten hinzufügen
@@ -23,7 +23,7 @@
     - 📗 Währungen setzen (EUR,CHF)
   - 📙 Live-Angebotsstream GW-Markt
   - 📙 Bieterfunktion für Fahrzeuge
- - 📒 Kontaktemanagement
+- 📒 Kontaktemanagement
   - 📗 Person anlegen
   - 📗 Person ändern
   - 📗 Unternehmen anlegen
