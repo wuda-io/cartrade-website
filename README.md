@@ -2,7 +2,6 @@
 - 📒 Dashboard & Daten-Analyse
   - 📒 Dashboard light (Aktionen, Finanzen, interne KPIs, Produkte und Services)
   - 📒 Dashboard premium (inkl. Marktanalyse, Angebotsstream, Chat)
-
 - 📗 Produkte und Services
   - 📗 Fahrzeug anlegen
   - 📒 Zulassungscheck via FIN
@@ -10,54 +9,46 @@
   - 📗 Service anlegen
   - 📒 Produktbilder hochladen
   - 📙 Produktbilder bearbeiten
- 
-- 📒 Preis- und Kostenverwaltung
+ - 📒 Preis- und Kostenverwaltung
   - 📗 Einkaufspreis setzen
   - 📗 Verkaufspreis setzen
   - 📒 Nebenkosten hinzufügen
-  - 📗 Steuersätze
+  - 📗 Steuern
     - 📗 Steuersätze Österreich
     - 📙 Steuersätze für Deutschland
     - 📙 Steuersätze für Schweiz
-  - 📒 Differenzbesteuerung
-  - 📒 NoVA-Rechner
-  - 📙 IGL-Rechnungen
-  - 📗 Währungen
-    - 📗 Währung EUR
-    - 📙 Währung CHF
+    - 📒 Differenzbesteuerung
+    - 📒 NoVA-Rechner 
+    - 📙 IGL-Rechnungen erkennen/erstellen
+    - 📗 Währungen setzen (EUR,CHF)
   - 📙 Live-Angebotsstream GW-Markt
   - 📙 Bieterfunktion für Fahrzeuge
- 
-- 📒 Kontaktemanagement
+ - 📒 Kontaktemanagement
   - 📗 Person anlegen
   - 📗 Person ändern
   - 📗 Unternehmen anlegen
   - 📗 Unternehmen ändern
   - 📒 Kunden und Lieferantenmanagement
   - 📒 Chat
-
 - 📒 Dokumentenmanagement
-  - 📗 Angebot manuell erstellen
-  - 📗 Auftrag manuell erstellen
-  - 📒 Angebot in Auftag umwandeln
+  - 📗 Angebot erstellen
+  - 📗 Auftrag erstellen
+  - 📒 Angebot ---> Auftag
   - 📗 Kaufvertrag erstellen
-  - 📗 Auftrag in Rechnung umwandeln
+  - 📗 Auftrag ---> Rechnung
   - 📒 Preistafel erstellen
-  - 📙 Dokumentenvorlagen / Design hochladen
-
+  - 📙 Dokumentenvorlage/Design hochladen
 - 📒 Online-Portale Netzwerke
   - 📒 Willhaben Export 
   - 📒 Willhaben Import
-  - 📙 Mobile Import
-  - 📙 Mobile Export
+  - 📙 Mobile.de Import
+  - 📙 Mobile.de Export
   - 📙 Instagram Export
   - 📙 Facebook Export
-
 - 📗 Sprachen
   - 📗 Deutsch
   - 📗 Englisch
   - 📙 Türkisch
-
 - 📙 Zeitmanagement
   - 📙 Interne Terminverwaltung / Firmenkalender
   - 📙 Probefahrtenverwaltung pro Fahrzeug
