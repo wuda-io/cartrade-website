@@ -48,7 +48,7 @@
 - 📗 Sprachen
   - 📗 Deutsch
   - 📗 Englisch
-  - 📙 Türkisch
+  - 📒 Türkisch
 - 📙 Zeitmanagement
   - 📙 Interne Terminverwaltung / Firmenkalender
   - 📙 Probefahrtenverwaltung pro Fahrzeug
