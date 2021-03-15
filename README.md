@@ -2,12 +2,18 @@
 - 📒 Dashboard & Daten-Analyse
   - 📒 Dashboard light (Aktionen, Finanzen, interne KPIs, Produkte und Services)
   - 📒 Dashboard premium (inkl. Marktanalyse, Angebotsstream, Chat)
-- 📗 Fahrzeugverwaltung
-- 📗 Zubehör verwalten
-- 📗 Service verwalten
+
+- 📗 Produkte und Services
+  - 📗 Fahrzeug anlegen
+  - 📒 Zulassungscheck via FIN
+  - 📗 Produkt anlegen
+  - 📗 Service anlegen
+  - 📒 Produktbilder hochladen
+  - 📙 Produktbilder bearbeiten
+ 
 - 📒 Preis- und Kostenverwaltung
-  - 📗 Einkaufspreise setzen
-  - 📗 Verkaufspreise setzen
+  - 📗 Einkaufspreis setzen
+  - 📗 Verkaufspreis setzen
   - 📒 Nebenkosten hinzufügen
   - 📗 Steuersätze
     - 📗 Steuersätze Österreich
@@ -21,19 +27,24 @@
     - 📙 Währung CHF
   - 📙 Live-Angebotsstream GW-Markt
   - 📙 Bieterfunktion für Fahrzeuge
+ 
 - 📒 Kontaktemanagement
-  - 📗 Personen verwalten
-  - 📗 Unternehmen verwalten
+  - 📗 Person anlegen
+  - 📗 Person ändern
+  - 📗 Unternehmen anlegen
+  - 📗 Unternehmen ändern
   - 📒 Kunden und Lieferantenmanagement
   - 📒 Chat
+
 - 📒 Dokumentenmanagement
-  - 📒 Preistafel erstellen
-  - 📗 Angebot erstellen
+  - 📗 Angebot manuell erstellen
+  - 📗 Auftrag manuell erstellen
+  - 📒 Angebot in Auftag umwandeln
   - 📗 Kaufvertrag erstellen
-  - 📗 Rechnung erstellen
-  - 📙 Eigene Dokumentenvorlagen / Designs
-  - 📗 Produktbilder hochladen
-  - 📙 Produktbilder bearbeiten
+  - 📗 Auftrag in Rechnung umwandeln
+  - 📒 Preistafel erstellen
+  - 📙 Dokumentenvorlagen / Design hochladen
+
 - 📒 Online-Portale Netzwerke
   - 📒 Willhaben Export 
   - 📒 Willhaben Import
@@ -41,10 +52,12 @@
   - 📙 Mobile Export
   - 📙 Instagram Export
   - 📙 Facebook Export
+
 - 📗 Sprachen
   - 📗 Deutsch
   - 📗 Englisch
   - 📙 Türkisch
+
 - 📙 Zeitmanagement
   - 📙 Interne Terminverwaltung / Firmenkalender
   - 📙 Probefahrtenverwaltung pro Fahrzeug
