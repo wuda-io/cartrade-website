@@ -3,7 +3,7 @@
   - 📒 Dashboard light (Aktionen, Finanzen, interne KPIs, Produkte und Services)
   - 📒 Dashboard premium (inkl. Marktanalyse, Angebotsstream, Chat)
 - 📗 Produkte und Services
-  - 📒 Fahrzeug anlegen
+  - 📗 Fahrzeug anlegen
   - 📒 Fahrzeug ändern
   - 📒 Fahrzeug Zulassungscheck via FIN
   - 📗 Produkt anlegen
