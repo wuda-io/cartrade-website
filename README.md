@@ -7,9 +7,9 @@
   - 📒 Fahrzeug ändern
   - 📗 Fahrzeug Zulassungscheck via FIN
   - 📗 Produkt anlegen
-  - 📒 Produkt ändern
-  - 📒 Service anlegen
-  - 📒 Service ändern
+  - 📗 Produkt ändern
+  - 📗 Service anlegen
+  - 📗 Service ändern
   - 📒 Produktbilder hochladen
   - 📙 Produktbilder bearbeiten
 - 📒 Preis- und Kostenverwaltung
