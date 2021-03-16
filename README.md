@@ -27,12 +27,12 @@
     - 📒 Währungen setzen (EUR, CHF)
   - 📙 Live-Angebotsstream GW-Markt
   - 📙 Bieterfunktion für Fahrzeuge
-- 📒 Kontaktemanagement
+- 📗 Kontaktemanagement
   - 📗 Person anlegen
-  - 📒 Person ändern
+  - 📗 Person ändern
   - 📗 Unternehmen anlegen
-  - 📒 Unternehmen ändern
-  - 📒 Kunden und Lieferantenmanagement
+  - 📗 Unternehmen ändern
+  - 📒 Kunden und Lieferanten (Umsatz / Ausgabe)
   - 📒 Chat
 - 📒 Dokumentenmanagement
   - 📗 Angebot erstellen
