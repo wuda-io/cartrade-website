@@ -62,5 +62,5 @@
   - 📙 Probefahrtenverwaltung pro Fahrzeug
   - 📙 Mitarbeiter Zeiterfassung
 
-
+### Legende
 📗 = getestet, 📒 = noch in Arbeit, 📙 = geplant
