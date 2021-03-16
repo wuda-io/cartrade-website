@@ -18,22 +18,13 @@
   - 📗 Verkaufspreis setzen
   - 📒 Nebenkosten hinzufügen
   - 📒 Steuern
-    - 📗 Steuersätze Österreich
-      - 📒 0% USt (Gold?)
-      - 📗 10% USt (Buch)
-      - 📒 13% USt (Blumen)
-      - 📒 19% USt (Normal für Mitterwald / Jungholz)
-      - 📗 20% USt (Normal)
-    - 📙 Steuersätze für Deutschland
-      - 📙 5% USt
-      - 📙 7% USt
-      - 📙 16% USt
-      - 📙 19% USt
-    - 📙 Steuersätze für Schweiz
-    - 📒 Differenzbesteuerung
-    - 📒 NoVA-Rechner 
-    - 📙 IGL-Rechnungen erkennen/erstellen
-    - 📒 Währungen setzen (EUR,CHF)
+    - 📗 Steuersätze Österreich / Fixe Sätze (0% 10% 13% 19% 20%)
+    - 📙 Steuersätze Deutschland / Fixe Sätze (5% 7% 16% 19%)
+    - 📙 Steuersätze Schweiz / Fixe Sätze (7,7% 2,5% 3,7%)
+    - 📒 Differenzbesteuerung / Bereits enthaltene Steuer
+    - 📒 NoVA-Rechner / Variabler Steuersatz zusätzlich je nach Fahrzeugdaten
+    - 📙 IGL-Rechnungen erstellen / Alle Steuern auf 0 setzen
+    - 📒 Währungen setzen (EUR, CHF)
   - 📙 Live-Angebotsstream GW-Markt
   - 📙 Bieterfunktion für Fahrzeuge
 - 📒 Kontaktemanagement
