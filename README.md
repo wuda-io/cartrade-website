@@ -18,7 +18,12 @@
   - 📗 Verkaufspreis setzen
   - 📒 Nebenkosten hinzufügen
   - 📒 Steuern
-    - 📒 Steuersätze Österreich
+    - 📗 Steuersätze Österreich
+      - 📒 0% USt. (Gold?)
+      - 📗 10% USt (Buch)
+      - 📒 13% USt (Blumen)
+      - 📒 19% USt. (Normal für Mitterwald / Jungholz)
+      - 📗 20% USt (Normal)
     - 📙 Steuersätze für Deutschland
     - 📙 Steuersätze für Schweiz
     - 📒 Differenzbesteuerung
