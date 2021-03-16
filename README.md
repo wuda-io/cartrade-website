@@ -5,7 +5,7 @@
 - 📗 Produkte und Services
   - 📗 Fahrzeug anlegen
   - 📒 Fahrzeug ändern
-  - 📒 Fahrzeug Zulassungscheck via FIN
+  - 📗 Fahrzeug Zulassungscheck via FIN
   - 📗 Produkt anlegen
   - 📒 Produkt ändern
   - 📒 Service anlegen
