@@ -49,7 +49,7 @@
   - 📙 Dokumentenvorlage/Design hochladen
 - 📒 Online-Portale / Schnittstellen
   - 📒 JSON Export
-  - 📒 JSON Import
+  - 📗 JSON Import
   - 📙 CSV Import (Excel)
   - 📙 CSV Export (Excel)
   - 📒 Willhaben Export
