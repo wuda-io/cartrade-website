@@ -3,10 +3,13 @@
   - 📒 Dashboard light (Aktionen, Finanzen, interne KPIs, Produkte und Services)
   - 📒 Dashboard premium (inkl. Marktanalyse, Angebotsstream, Chat)
 - 📗 Produkte und Services
-  - 📗 Fahrzeug anlegen
-  - 📒 Zulassungscheck via FIN
+  - 📒 Fahrzeug anlegen
+  - 📒 Fahrzeug ändern
+  - 📒 Fahrzeug Zulassungscheck via FIN
   - 📗 Produkt anlegen
-  - 📗 Service anlegen
+  - 📒 Produkt ändern
+  - 📒 Service anlegen
+  - 📒 Service ändern
   - 📒 Produktbilder hochladen
   - 📙 Produktbilder bearbeiten
 - 📒 Preis- und Kostenverwaltung
@@ -33,7 +36,7 @@
 - 📒 Dokumentenmanagement
   - 📗 Angebot erstellen
   - 📗 Auftrag erstellen
-  - 📒 Angebot ---> Auftag
+  - 📗 Angebot ---> Auftag
   - 📗 Kaufvertrag erstellen
   - 📗 Auftrag ---> Rechnung
   - 📒 Preistafel erstellen
@@ -48,7 +51,7 @@
 - 📗 Sprachen
   - 📗 Deutsch
   - 📗 Englisch
-  - 📒 Türkisch
+  - 📗 Türkisch
 - 📙 Zeitmanagement
   - 📙 Interne Terminverwaltung / Firmenkalender
   - 📙 Probefahrtenverwaltung pro Fahrzeug
