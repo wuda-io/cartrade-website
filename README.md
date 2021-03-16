@@ -10,27 +10,28 @@
   - 📗 Produkt ändern
   - 📗 Service anlegen
   - 📗 Service ändern
-  - 📒 Produktbilder hochladen
-  - 📙 Produktbilder bearbeiten
+  - 📒 Bild hochladen
+  - 📙 Bild entfernen
+  - 📙 Bild bearbeiten
 - 📒 Preis- und Kostenverwaltung
   - 📗 Einkaufspreis setzen
   - 📗 Verkaufspreis setzen
   - 📒 Nebenkosten hinzufügen
-  - 📗 Steuern
-    - 📗 Steuersätze Österreich
+  - 📒 Steuern
+    - 📒 Steuersätze Österreich
     - 📙 Steuersätze für Deutschland
     - 📙 Steuersätze für Schweiz
     - 📒 Differenzbesteuerung
     - 📒 NoVA-Rechner 
     - 📙 IGL-Rechnungen erkennen/erstellen
-    - 📗 Währungen setzen (EUR,CHF)
+    - 📒 Währungen setzen (EUR,CHF)
   - 📙 Live-Angebotsstream GW-Markt
   - 📙 Bieterfunktion für Fahrzeuge
 - 📒 Kontaktemanagement
   - 📗 Person anlegen
-  - 📗 Person ändern
+  - 📒 Person ändern
   - 📗 Unternehmen anlegen
-  - 📗 Unternehmen ändern
+  - 📒 Unternehmen ändern
   - 📒 Kunden und Lieferantenmanagement
   - 📒 Chat
 - 📒 Dokumentenmanagement
@@ -41,8 +42,12 @@
   - 📗 Auftrag ---> Rechnung
   - 📒 Preistafel erstellen
   - 📙 Dokumentenvorlage/Design hochladen
-- 📒 Online-Portale Netzwerke
-  - 📒 Willhaben Export 
+- 📒 Online-Portale / Schnittstellen
+  - 📒 JSON Export
+  - 📒 JSON Import
+  - 📙 CSV Import (Excel)
+  - 📙 CSV Export (Excel)
+  - 📒 Willhaben Export
   - 📒 Willhaben Import
   - 📙 Mobile.de Import
   - 📙 Mobile.de Export
