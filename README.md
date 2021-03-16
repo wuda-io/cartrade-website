@@ -19,12 +19,16 @@
   - 📒 Nebenkosten hinzufügen
   - 📒 Steuern
     - 📗 Steuersätze Österreich
-      - 📒 0% USt. (Gold?)
+      - 📒 0% USt (Gold?)
       - 📗 10% USt (Buch)
       - 📒 13% USt (Blumen)
-      - 📒 19% USt. (Normal für Mitterwald / Jungholz)
+      - 📒 19% USt (Normal für Mitterwald / Jungholz)
       - 📗 20% USt (Normal)
     - 📙 Steuersätze für Deutschland
+      - 📙 5% USt
+      - 📙 7% USt
+      - 📙 16% USt
+      - 📙 19% USt
     - 📙 Steuersätze für Schweiz
     - 📒 Differenzbesteuerung
     - 📒 NoVA-Rechner 
