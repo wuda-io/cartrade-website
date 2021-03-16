@@ -63,4 +63,4 @@
   - 📙 Mitarbeiter Zeiterfassung
 
 ### Legende
-📗 = getestet, 📒 = noch in Arbeit, 📙 = geplant
+📗 = getestet, 📒 = in Arbeit, 📙 = geplant
