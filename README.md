@@ -22,7 +22,7 @@
     - 📒 Deutschland (5% 7% 16% 19%)
     - 📒 Schweiz (7,7% 2,5% 3,7%)
   - 📒 Differenzbesteuerung / Steuer bereits enthalten
-  - 📒 Variable Steuersätze und Fixe / NoVA-Rechner
+  - 📒 Variable Steuersätze / NoVA-Rechner
   - 📒 IGL-Rechnungen erstellen / Steuern auf 0 setzen
   - 📗 Währungen setzen (EUR, CHF, ...)
   - 📙 Live-Angebotsstream GW-Markt
