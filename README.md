@@ -1,7 +1,7 @@
 # Features
 - 📒 Dashboard & Daten-Analyse
   - 📒 Dashboard light (Aktionen, Finanzen, interne KPIs, Produkte und Services)
-  - 📒 Dashboard premium (inkl. Marktanalyse, Angebotsstream, Chat)
+  - 📙 Dashboard premium (inkl. Marktanalyse, Angebotsstream, Chat)
 - 📗 Produkte und Services
   - 📗 Fahrzeug anlegen
   - 📒 Fahrzeug ändern
@@ -32,8 +32,8 @@
   - 📗 Person ändern
   - 📗 Unternehmen anlegen
   - 📗 Unternehmen ändern
-  - 📒 Kunden und Lieferanten (Umsatz / Ausgabe)
-  - 📒 Chat
+  - 📙 Kunden und Lieferanten (Umsatz / Ausgabe)
+  - 📙 Chat
 - 📒 Dokumentenmanagement
   - 📗 Angebot erstellen
   - 📗 Auftrag erstellen
