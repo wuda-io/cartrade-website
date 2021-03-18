@@ -21,7 +21,7 @@
     - 📗 Österreich  (0% 10% 13% 19% 20%)
     - 📒 Deutschland (5% 7% 16% 19%)
     - 📒 Schweiz (7,7% 2,5% 3,7%)
-  - 📒 Differenzbesteuerung / Steuer bereits enthalten
+  - 📗 Differenzbesteuerung / Steuer bereits enthalten
   - 📒 Variable Steuersätze / NoVA-Rechner
   - 📒 IGL-Rechnungen erstellen / Steuern auf 0 setzen
   - 📗 Währungen setzen (EUR, CHF, ...)
