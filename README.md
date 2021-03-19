@@ -35,7 +35,7 @@
   - 📙 Kunden und Lieferanten (Umsatz / Ausgabe)
   - 📒 Chat intern
   - 📒 E-Mails senden via Aktion
-- 📒 Dokumentenmanagement
+- 📗 Dokumentenmanagement
   - 📗 Angebot erstellen
   - 📗 Auftrag erstellen
   - 📗 Angebot ---> Auftag
