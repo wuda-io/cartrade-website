@@ -24,7 +24,7 @@
   - 📗 Differenzbesteuerung / Steuer bereits enthalten
   - 📒 Variable Steuersätze / NoVA-Rechner
   - 📒 IGL-Rechnungen erstellen / Steuern auf 0 setzen
-  - 📗 Währungen setzen (EUR, CHF, ...)
+  - 📒 Währungen setzen (EUR, CHF, ...)
   - 📙 Live-Angebotsstream GW-Markt
   - 📙 Bieterfunktion für Fahrzeuge
 - 📗 Kontaktemanagement
@@ -33,7 +33,8 @@
   - 📗 Unternehmen anlegen
   - 📗 Unternehmen ändern
   - 📙 Kunden und Lieferanten (Umsatz / Ausgabe)
-  - 📙 Chat
+  - 📒 Chat intern
+  - 📒 E-Mails senden via Aktion
 - 📒 Dokumentenmanagement
   - 📗 Angebot erstellen
   - 📗 Auftrag erstellen
@@ -59,7 +60,7 @@
   - 📗 Türkisch
 - 📙 Zeitmanagement
   - 📙 Interne Terminverwaltung / Firmenkalender
-  - 📙 Probefahrtenverwaltung pro Fahrzeug
+  - 📒 Probefahrtenverwaltung pro Fahrzeug
   - 📙 Mitarbeiter Zeiterfassung
 
 ### Legende
