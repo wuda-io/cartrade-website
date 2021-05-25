@@ -8,6 +8,7 @@
 							<ul class="footer-link-list">
 								<li>> <a href="./beste-autohaus-software.php">Die beste Autohaus-Software</a></li>
 								<li>> <a href="./nova-bei-differenzbesteuerung.php">NoVA bei Differenzbesteuerung</a></li>
+								<li>> <a href="./autohaendler_einkaufsportal.php">Einkaufsportal für Autohändler</a></li>
 								<!--<li>> <a href="./fahrzeug-importieren-oesterreich.php">Fahrzeug nach Österreich importieren</a></li>-->
 							</ul>
 							<p class="footer-title">Funktionen</p>
