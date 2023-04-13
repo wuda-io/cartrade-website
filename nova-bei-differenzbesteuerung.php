@@ -18,7 +18,7 @@
           <div class="col s12 m10 offset-m1 l8 offset-l2">
             <p class="flow-text">NoVA ist eine spezielle Fahrzeugsteuer in Österreich und bedeutet Normverbrauchsabgabe. Diese Steuer ist eine Zulassungssteuer die bei der Zulassung des Autos in Österreich zum Tragen kommt. Eine Differenzbesteuerung tritt auf, wenn ein Fahrzeug von einer Privatperson erworben wird und keine gesonderte Umsatzsteuer ausgewiesen wird.</p>
 						<h2>Wann NoVA und Differenzbesteuerung angewendet wird</h2>
-						<p>Anwendung der Differenzbesteuerung:</p>
+						<p>Test - Anwendung der Differenzbesteuerung:</p>
 						<blockquote>
 						§ 24 UStG besagt, dass die Differenzbesteuerung bei beweglichen, körperlichen Gegenständen anzuwenden ist, die ein Unternehmer von einem Nichtunternehmer zur gewerblichen Weiterveräußerung erwirbt.
 						</blockquote>
