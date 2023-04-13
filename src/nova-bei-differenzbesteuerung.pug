@@ -1,7 +1,9 @@
-//- 	echo getHeader("NoVA bei Differenzbesteuerung? Wuda CarTrade",
-//- "NoVA und Differenzbesteuerung gemeinsam treten nur dann auf, wenn ein Auto einer Privatperson importiert wird.",
-//- "./img/better-tax.jpg");
-include includes/header.pug
+include mixins/header.pug
++header(
+  'NoVA bei Differenzbesteuerung? Wuda CarTrade',
+  'NoVA und Differenzbesteuerung gemeinsam treten nur dann auf, wenn ein Auto einer Privatperson importiert wird.',
+  './img/better-tax.jpg'
+)
 
 div.article-image
   img(src="https://cartrade.wuda.io/img/better-tax.jpg" alt="Rechner mit Vertrag")
