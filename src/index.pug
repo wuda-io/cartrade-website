@@ -1,0 +1,11 @@
+include includes/header.pug
+
+main
+  include includes/hero.pug
+  include includes/manage-data.pug
+  include includes/better-car-import.pug
+  include includes/comfort-and-safety.pug
+  div.container
+    include:markdown-it ../README.md
+    
+include includes/footer.pug

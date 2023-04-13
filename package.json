@@ -4,16 +4,25 @@
   "description": "Website for Wuda Cartrade",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "grunt monitor"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wuda-io/cartrade-website.git"
   },
-  "author": "",
+  "author": "Wuda Software",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wuda-io/cartrade-website/issues"
   },
-  "homepage": "https://github.com/wuda-io/cartrade-website#readme"
+  "homepage": "https://github.com/wuda-io/cartrade-website#readme",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-concurrent": "^3.0.0",
+    "grunt-contrib-pug": "^3.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "jstransformer-markdown-it": "^3.0.0"
+  }
 }

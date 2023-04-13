@@ -1,0 +1,103 @@
+footer.footer.no-print
+  div.section
+    div.container(style="color: #aaa;")
+      div.row
+        div.col.s12.m5
+          p.footer-title Weiterführende Links
+          ul.footer-link-list
+            li >
+              a(href="./beste-autohaus-software.html") Die beste Autohaus-Software
+            li >
+              a(href="./nova-bei-differenzbesteuerung.html") NoVA bei Differenzbesteuerung
+            li >
+              a(href="./autohaendler_einkaufsportal.html") Einkaufsportal für Autohändler
+            //li > <a href="./fahrzeug-importieren-oesterreich.html">Fahrzeug nach Österreich importieren
+
+          p.footer-title Funktionen
+          ul.footer-link-list
+            li > Einfache Fahrzeugverwaltung
+            li > Eingebaute NoVA-Berechnung
+            li > Zulassungsüberprüfung via FIN
+            li > Kundendatenbank
+            li > 1-Klick Kaufvertrag
+            li > Dokumenten-Management
+            li > Modular und individuell anpassbar
+
+        div.col.s12.m4
+          p.footer-title Kontakt
+          p.footer-text-1
+            a(href=".") CarTrade
+            span ist ein Produkt von
+            br
+            span Wuda Software
+            br
+            span Jakob-Haringer-Straße 6
+            br
+            span 5020 Salzburg
+            br
+            br
+            span E-Mail:
+            a(href="https://wuda.io/contact-via-mail.php") info@wuda.io
+            br
+            span Tel.: +43 664 37 69 013
+            br
+
+        div.col.s12.m3.right-align
+          p.footer-title Informationen
+          ul.footer-link-list
+            li
+              a(href="./faq.html") Häufig gestellte Fragen (FAQ)
+            //<li>FIN abfragen
+            //<li>NoVA-Rechner
+          </ul>
+          p.footer-title Socialmedia
+          ul.footer-link-list
+            li
+              a(target="_blank" href="https://www.instagram.com/wuda.io/") Instagram
+
+  div.section.grey.darken-4
+    div.container
+      div.footer-subfooter
+        span &copy; Copyright by
+          a(href="https://www.wuda.io" target="_blank") Wuda Software
+        span(style="float: right;")
+          a(style="margin-right: 3em;" href="https://www.wuda.io/imprint.html") Impressum
+          a(style="margin-right: 3em;" href="https://www.wuda.io/privacy.html") Datenschutz
+          a(href="agb.php") AGB
+        div(style="clear: both;")
+
+script(type="application/ld+json").
+  {
+    "@context":"http://schema.org",
+    "@type":"Review",
+    "datePublished":"2020-05-01T20:00",
+    "author": {
+      "@type":"Person",
+      "name":"Daniel Wurzer"
+    },
+    "publisher": {
+      "@type":"Organization",
+      "name":"Wuda Software",
+      "sameAs":"https://www.wuda.io/"
+    },			
+    "inLanguage":"de",
+    "itemReviewed": {
+      "@type":"Product",
+      "name": "CarTrade",
+      "image": "https://cartrade.wuda.io/img/opengraph-CarTrade.png",
+      "description":"Autohandel und Import leicht gemacht",
+      "brand": "Wuda",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "ratingCount": "2"
+      }
+    }
+  }
+  
+script(src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js")
+script(src="https://unpkg.com/aos@2.3.1/dist/aos.js")
+script.
+  M.AutoInit();
+  AOS.init();

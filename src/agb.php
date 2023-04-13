@@ -3,6 +3,7 @@
 	include_once(__DIR__.'/_headerfunc.php');
 	echo getHeader("Allgemeine Geschäftsbedingungen (AGB) - CarTrade", "CarTrade ist ein Service von Wuda Software. Bei Fragen, Anregungen oder Kritik konsultieren Sie uns gerne unter den angegebenen Kontaktdaten.");
 ?>
+
 <!-- Info -->
 <div>
   <div id="imprint" class="container">
@@ -78,6 +79,7 @@
     </div>
   </div>
 </div>
+
 <?php
   //===== FOOTER
   include_once(__DIR__.'/_footer.php');

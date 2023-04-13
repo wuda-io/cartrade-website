@@ -1,0 +1,112 @@
+//- 	echo getHeader("NoVA bei Differenzbesteuerung? Wuda CarTrade",
+//- "NoVA und Differenzbesteuerung gemeinsam treten nur dann auf, wenn ein Auto einer Privatperson importiert wird.",
+//- "./img/better-tax.jpg");
+include includes/header.pug
+
+div.article-image
+  img(src="https://cartrade.wuda.io/img/better-tax.jpg" alt="Rechner mit Vertrag")
+
+//- <!-- Text-Image -->
+div.app-function.print-page
+  div.container
+    div.row
+      div.col.s12.m10.offset-m1.l8.offset-l2
+        h1.section NoVA bei Differenzbesteuerung
+      div.col.s12.m10.offset-m1.l8.offset-l2
+        p.flow-text.
+          NoVA ist eine spezielle Fahrzeugsteuer in Österreich und bedeutet Normverbrauchsabgabe.
+          Diese Steuer ist eine Zulassungssteuer die bei der Zulassung des Autos in Österreich zum Tragen kommt.
+          Eine Differenzbesteuerung tritt auf, wenn ein Fahrzeug von einer Privatperson erworben wird und keine
+          gesonderte Umsatzsteuer ausgewiesen wird.
+
+        h2 Wann NoVA und Differenzbesteuerung angewendet wird
+        p Anwendung der Differenzbesteuerung:
+        blockquote.
+          §24 UStG besagt, dass die Differenzbesteuerung bei beweglichen,körperlichen Gegenständen anzuwenden ist,
+          die ein Unternehmer von einem Nichtunternehmer zur gewerblichen Weiterveräußerung erwirbt.
+        p.
+          NoVA und Differenzbesteuerung gemeinsam treten auf, wenn ein Auto im Ausland von einer Privatperson erworben wird.
+          Hier gilt es zu beachten, dass die Vorsteuer bereits im Kaufpreis enthalten ist.
+          Die NoVA kann jedoch nur auf den Netto-Betrag angewendet werden.          
+          Es ist also erforderlich, einen theoretischen Netto-Betrag zu ermitteln, mit dem die NoVA berrechnet werden kann.
+          Der theoretischen Netto-Betrag wird retrograd d.h. rückwärts vom Bruttoverkaufspreis errechnet.
+
+//- CTA
+//- div.section grey lighten-3 call-to-action
+//- 	<form class="center-align no-print				
+//- 		<h4>Mehr erfahren?<br>Wuda CarTrade 14 Tage lang testen</h4>
+//- 		<a href="cta.php" class="btn-flat btn-cta" target="_blank" title="Hier klicken um mehr zu erfahrenJetzt kostenlos testen</a>
+
+//- Section
+div.app-function.section.print-page
+  div.container
+    div.row
+      div.col.s12.m10.offset-m1.l8.offset-l2
+        h2 Was bei der Differenzbesteuerung zu beachten ist
+        p Steuerpflichtig ist nur der erzielte Mehrerlös (Verkaufspreis abzgl. Einkaufspreis). Folgende Dinge sind dabei zu beachten:
+        ul.browser-default
+          li Erzielter Mehrerlös ist ein Bruttobetrag
+          li Nur der Mehrerlös (netto) ist in die UVA (Umsatzsteuervoranmeldung) aufzunehmen.
+          li Verbesserung nicht schädlich.
+          li Umsatzsteuer darf in Rechnung nicht gesondert ausgewiesen werden.
+          li Hinweis auf Differenzbesteuerung in Ausgangsrechnung.
+          li Fahrzeuge können aus dem übrigen Gemeinschaftsgebiet differenzbesteuert erworben werden.
+          li Differenzbesteuerung und Kleinunternehmerregelung schließen sich aus.
+        p.
+          Normalerweise wird daher in diesen Fällen retrograd, ausgehend vom Bruttoverkaufspreis,
+          die NoVA bzw. die Bemessungsgrundlage für die Umsatzsteuer (Differenz) zu ermitteln sein.
+        p
+          b Achtung:&nbsp;
+          span Der anzuwendende NoVA-Tarif richtet sich nach der erstmaligen Zulassung des Fahrzeuges zum Verkehr in der EU!	
+
+div.app-function.section.print-page
+  div.container
+    div.row
+      div.col.s12.m10.offset-m1.l8.offset-l2
+        h3 Beispiel
+        p
+          i Einkauf eines KFZ in der EU differenzbesteuert.
+        div Differenzbesteuerter Einkaufspreis € 10.000,--
+        div Bruttoverkaufspreis (BVKP) in Österreich € 15.000,-
+        div NoVA 8 %, Diesel.
+        br
+        table.striped.tbl-calc
+          tr
+            td Bruttoverkaufspreis (BVKP)</td>
+            td € 15.000,--
+          tr
+            td Kürzungsbetrag NoVA</td>
+            td 300,--
+          tr
+            td Nettoverkaufspreis (NVKP)</td>
+            td € 11.953,12
+          tr.red-text
+            td x 100 / 128 = NoVA (956,25 – 300,--)
+            td € 656,25
+          tr
+            td NVKP € 11.953,12 x 1,2 =
+            td € 14.343,74
+          tr
+            td Verkaufspreis inkl. USt
+            td € 14.343,74
+          tr
+            td Einkaufspreis differenzbest.
+            td € 10.000,--
+          tr
+            td Mehrerlös brutto
+            td € 4.343,74
+          tr.red-text
+            td USt daher
+            td € 723,96
+
+include includes/share-social.pug
+
+    //- <!-- CTA -->
+    //- div.section grey lighten-3 call-to-action
+    //- 	<form class="center-align no-print				
+    //- 		<h4>Sie wollen es noch einfacher?<br>Testen Sie CarTrade mit NoVA-Rechner</h4>
+    //- 		<a href="cta.php" class="btn-flat btn-cta" target="_blank" title="Hier klicken um mehr zu erfahrenJetzt kostenlos testen</a>
+    //- 	</form>
+    //- </div>
+
+include includes/footer.pug

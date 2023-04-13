@@ -1,22 +1,22 @@
 /******************************************************************** BASIC */
-h1 {font-size: 2.5em; margin-top: .5em; line-height: 1.25; margin-bottom: .25em; word-wrap: break-word; font-weight: 600;}
-h2 {font-size: 1.75em; font-weight: 600;}
-h3 {font-size: 1.5em; font-weight: 600;}
-h4 {font-size: 1.25em; font-weight: 600;}
+h1 {font-size: 2.5em; margin-top: .5em; line-height: 1.25; margin-bottom: .25em; word-wrap: break-word; font-weight: 500;}
+h2 {font-size: 1.75em; font-weight: 500;}
+h3 {font-size: 1.5em; font-weight: 500;}
+h4 {font-size: 1.25em; font-weight: 500;}
 a { color: #1e7da1; }
 a:hover {color: #259ecb;}
 
 /******************************************************************** HEADER */
 .header-bar {background-color: #1e7da1;}
-.header-bar a {font-size: 1.4em; font-weight: 600;}
+.header-bar a {font-size: 1.4em; font-weight: 500;}
 
 /******************************************************************** FOOTER */
 .footer {background-color: #333;}
 .footer a { color: #fff; }
 .footer a:hover { color: #259ecb; }
-.footer-title {font-weight: 600; font-size: 1.15em;}
+.footer-title {font-weight: 400; font-size: 1.25em;}
 .footer-text-1 {font-size: 14px;}
-.footer-link-list {font-size: 14px; list-style-image: none;}
+.footer-link-list {font-size: 15px; list-style-image: none;}
 .footer-subfooter {color: #ddd; font-size: 13px; }
 
 /******************************************************************** OTHER */
