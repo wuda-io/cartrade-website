@@ -2,8 +2,7 @@ include mixins/header.pug
 +header(
   'NoVA bei Differenzbesteuerung? Wuda CarTrade',
   'NoVA und Differenzbesteuerung gemeinsam treten nur dann auf, wenn ein Auto einer Privatperson importiert wird.',
-  './img/better-tax.jpg',
-  true
+  './img/better-tax.jpg'
 )
 
 div.article-image
@@ -22,6 +21,8 @@ div.app-function.print-page
           Eine Differenzbesteuerung tritt auf, wenn ein Fahrzeug von einer Privatperson erworben wird und keine
           gesonderte Umsatzsteuer ausgewiesen wird.
 
+        include includes/ad1.html
+
         h2 Wann NoVA und Differenzbesteuerung angewendet wird
         p Anwendung der Differenzbesteuerung:
         blockquote.
@@ -33,6 +34,8 @@ div.app-function.print-page
           Die NoVA kann jedoch nur auf den Netto-Betrag angewendet werden.          
           Es ist also erforderlich, einen theoretischen Netto-Betrag zu ermitteln, mit dem die NoVA berrechnet werden kann.
           Der theoretischen Netto-Betrag wird retrograd d.h. rückwärts vom Bruttoverkaufspreis errechnet.
+
+
 
 //- CTA
 //- div.section grey lighten-3 call-to-action
@@ -103,6 +106,8 @@ div.app-function.section.print-page
             td € 723,96
 
 include includes/share-social.pug
+
+include includes/ad1.html
 
     //- <!-- CTA -->
     //- div.section grey lighten-3 call-to-action
