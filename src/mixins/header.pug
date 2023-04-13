@@ -1,4 +1,4 @@
-mixin header(title, description, imageurl)
+mixin header(title, description, imageurl, ads)
   doctype html
   html(lang="de")
     head
@@ -25,6 +25,8 @@ mixin header(title, description, imageurl)
       link(rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css")
       link(rel="stylesheet" href="./css/style.css")    
     
+      if ads
+        script(async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9412332535613378" crossorigin="anonymous")
     body
       //- Optional
       div.header-bar.white-text
